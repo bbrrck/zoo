@@ -1,4 +1,4 @@
-panda
-slon
-tiger
-zirafa
+panda 🐼
+slon 🐘
+tiger 🐯
+zirafa 🦒
