@@ -2,4 +2,4 @@ panda
 slon
 tiger
 zirafa
-krokodíl
+krokodíl 🐊
