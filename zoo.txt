@@ -2,3 +2,4 @@ panda
 slon
 tiger
 zirafa
+gorila
